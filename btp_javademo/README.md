@@ -67,11 +67,11 @@ Steps :
 
 2. Add Dependency, Spirng Web + Rest Repository
    
-   ![Denpendcy](/img/Dependency.png)
+   ![Denpendcy](/btp_javademo/img/Dependency.png)
 
 3. create **controller**folder and add the class **HelloWorldController**
    
-   ![JavaPackage](/img/JavaPackage.png)
+   ![JavaPackage](/btp_javademo/img/JavaPackage.png)
 
 4. Add the sample code and save it
    ```Java
@@ -114,7 +114,7 @@ Deploy for BTP:
       ```cf api {EndpointURL} ```
 
    **EndpointURL** you can find in your subaccount :
-   ![APIEndPoint](/img/APIEndPoint.png)
+   ![APIEndPoint](/btp_javademo/img/APIEndPoint.png)
 
 2. login to your BTP endpoint with your btp user and password
    command :
@@ -132,13 +132,13 @@ here we suggest use bellow format as recomendation :
 
 **subdomain:** 
 
-![subdomain](/img/subdomain.png)
+![subdomain](/btp_javademo/img/subdomain.png)
 
 **appname**: defined by yourself
 
 **cfappsdomain:** user the command ```cf domains ``` to get the domain url
 
-![cfappdomain](/img/cfappdoman.png)
+![cfappdomain](/btp_javademo/img/cfappdoman.png)
 
 Example:
 
@@ -166,15 +166,15 @@ Example:
 
 1. Navigte to your space
    
- ![space](/img/space.png)
+ ![space](/btp_javademo/img/space.png)
 
 2. Go you applcation 
    
- ![space_application](/img/space_application.png)
+ ![space_application](/btp_javademo/img/space_application.png)
 
 3.  Get applicaiton URL
    
- ![applicationOverview](/img/applicaiton_overview.png)
+ ![applicationOverview](/btp_javademo/img/applicaiton_overview.png)
 
 4. Test it with the URL 
    

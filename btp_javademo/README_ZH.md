@@ -68,11 +68,11 @@
 
 2. 添加依赖， spring web  + Rest Repository
    
-   ![Denpendcy](/img/Dependency.png)
+   ![Denpendcy](/btp_javademo/img/Dependency.png)
 
 3. 创建**controller**文件夹并添加类**HelloWorldController**
    
-   ![JavaPackage](/img/JavaPackage.png)
+   ![JavaPackage](/btp_javademo/img/JavaPackage.png)
 
 4. 添加以下示例代码，并保存
    ```Java
@@ -116,7 +116,7 @@
       ```cf api {EndpointURL} ```
 
    **EndpointURL** 你可以在子账户中看到对应的API endpint :
-   ![APIEndPoint](/img/APIEndPoint.png)
+   ![APIEndPoint](/btp_javademo/img/APIEndPoint.png)
 
 2. 使用升级的BTP账户登录对应的BTP CF环境
    
@@ -135,13 +135,13 @@
 
 **subdomain:** 
 
-![subdomain](/img/subdomain.png)
+![subdomain](/btp_javademo/img/subdomain.png)
 
 **appname**: 由业务定义
 
 **cfappsdomain:**  可使用命令行 ```cf domains ``` 获取对应的domains
 
-![cfappdomain](/img/cfappdoman.png)
+![cfappdomain](/btp_javademo/img/cfappdoman.png)
 
 样例:
 
@@ -169,15 +169,15 @@
 
 1. 导航到到 sapce
    
- ![space](/img/space.png)
+ ![space](/btp_javademo/img/space.png)
 
 2. 进入到 applcation 
    
- ![space_application](/img/space_application.png)
+ ![space_application](/btp_javademo/img/space_application.png)
 
 3.  产看 applicaiton URL
    
- ![applicationOverview](/img/applicaiton_overview.png)
+ ![applicationOverview](/btp_javademo/img/applicaiton_overview.png)
 
 4. 用以下链接来测试
    
