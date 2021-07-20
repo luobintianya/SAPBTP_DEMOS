@@ -1,4 +1,4 @@
-[English](/README.md) | [中文](/README_ZH.md)
+[English](/btp_javademo/README.md) | [中文](/btp_javademo/README_ZH.md)
 
 此文件夹是 SAP BTP Java 应用程序的简单实例， 我们可以用此实例来熟悉SAP BTP 中的java应用开开发流程.
 

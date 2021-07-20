@@ -1,4 +1,4 @@
-[English](/README.md) | [中文](/README_ZH.md)
+[English](/btp_javademo/README.md) | [中文](/btp_javademo/README_ZH.md)
 
 This folder is the BTP Simple Demo Application for Java Applicaiton. we can use this demo to familiary with the SAP BTP Java Development Lifecycle.
 
