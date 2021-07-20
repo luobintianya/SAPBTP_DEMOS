@@ -1,6 +1,6 @@
 [English](/README.md) | [中文](/README_ZH.md)
 
-This branch is the BTP Simple Demo Application for Java Applicaiton. we can use this demo to familiary with the SAP BTP Java Development Lifecycle.
+This folder is the BTP Simple Demo Application for Java Applicaiton. we can use this demo to familiary with the SAP BTP Java Development Lifecycle.
 
 After that ,  you can directly user the template for further development or build another applicaitons with you own development
 

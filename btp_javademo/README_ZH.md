@@ -1,6 +1,6 @@
 [English](/README.md) | [中文](/README_ZH.md)
 
-此分支是 SAP BTP Java 应用程序的简单实例， 我们可以用此实例来熟悉SAP BTP 中的java应用开开发流程.
+此文件夹是 SAP BTP Java 应用程序的简单实例， 我们可以用此实例来熟悉SAP BTP 中的java应用开开发流程.
 
 在你完成改示例java应用程序以后， 我们可以直接使用改java应用程序进行后续的开发流程， 或直接构建一个新的JAVA应用程序来支持新的业务开发
 
