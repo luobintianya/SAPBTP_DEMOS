@@ -48,9 +48,9 @@
     
      安装 [SpringBoot Pack Extention](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack) , 以及 [Java Extention](https://marketplace.visualstudio.com/items?itemName=pverest.java-ide-pack), 或者 [Spring Boot Developer pack](https://marketplace.visualstudio.com/items?itemName=developersoapbox.vscode-springboot-developer-pack), 依照此 [文档](https://github.com/redhat-developer/vscode-java) 配置JAVA 开发环境
 
-
    * **Theia** 
-      Eclisp旗下用于作为Visual Studio Code 的替代开发集成环境， 配置与VSC相似，还处于Beta开发中， 喜欢尝试的朋友可以试一下
+
+      Eclisp旗下用于作为Visual Studio Code 的替代开发集成环境， 配置与VSC相似，还处于Beta开发中， 喜欢尝试的朋友可以试一下，做first bird
 
    * **CF命令行**
      
