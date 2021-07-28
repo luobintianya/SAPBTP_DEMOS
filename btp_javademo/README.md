@@ -34,7 +34,7 @@ Use this [link](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Clo
     
    **IDE**
     
-   we can use the [Eclipse](https://www.eclipse.org/), [Idea](https://www.jetbrains.com/idea/) , or [VSC](https://code.visualstudio.com/) as you favourite development IDE, or other IDE you want.
+   we can use the [Eclipse](https://www.eclipse.org/), [Idea](https://www.jetbrains.com/idea/) , [Theia](https://theia-ide.org/) or [VSC](https://code.visualstudio.com/) as you favourite development IDE, or other IDE you want.
 
    * **Eclipse** 
    
@@ -47,6 +47,10 @@ Use this [link](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Clo
    * **VSC**
       
      Install the [SpringBoot Pack Extention](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack) , and [Java Extention](https://marketplace.visualstudio.com/items?itemName=pverest.java-ide-pack), or [Spring Boot Developer pack](https://marketplace.visualstudio.com/items?itemName=developersoapbox.vscode-springboot-developer-pack), follow this [instruction](https://github.com/redhat-developer/vscode-java) to configue the java runtime
+
+   * **Theia** 
+  
+      As alternative IDF fo VSC under Eclpse orgnization,  and it is still in Beta development , if you want to be the first bird , we can try it.
 
    * **CF Command line**
     

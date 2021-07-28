@@ -34,7 +34,7 @@
     
    **IDE**
 
-   我们可以使用 [Eclipse](https://www.eclipse.org/), [Idea](https://www.jetbrains.com/idea/) , 或者 [VSC](https://code.visualstudio.com/) 作为我们开发工具, 或者其他合适的集成开发环境
+   我们可以使用 [Eclipse](https://www.eclipse.org/), [Idea](https://www.jetbrains.com/idea/) , [Theia](https://theia-ide.org/) 或者 [VSC](https://code.visualstudio.com/) 作为我们开发工具, 或者其他合适的集成开发环境
 
    * **Eclipse** 
    
@@ -48,11 +48,17 @@
     
      安装 [SpringBoot Pack Extention](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack) , 以及 [Java Extention](https://marketplace.visualstudio.com/items?itemName=pverest.java-ide-pack), 或者 [Spring Boot Developer pack](https://marketplace.visualstudio.com/items?itemName=developersoapbox.vscode-springboot-developer-pack), 依照此 [文档](https://github.com/redhat-developer/vscode-java) 配置JAVA 开发环境
 
+
+   * **Theia** 
+      Eclisp旗下用于作为Visual Studio Code 的替代开发集成环境， 配置与VSC相似，还处于Beta开发中， 喜欢尝试的朋友可以试一下
+
    * **CF命令行**
      
      下载并配置: [Download and Install the Cloud Foundry Command Line Interface](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/4ef907afb1254e8286882a2bdef0edf4.html)
    
      直接下载链接: [https://github.com/cloudfoundry/cli#downloads](https://github.com/cloudfoundry/cli#downloads)
+
+
 
 ### 开发
 
