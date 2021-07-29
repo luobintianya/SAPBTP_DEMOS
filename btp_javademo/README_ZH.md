@@ -21,7 +21,7 @@
 ### 准备阶段 
 
 #### BTP 账户
-使用改 [link](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/e50ab7b423f04a8db301d7678946626e.html) 申请BTP的试用账户或者配置企业账户
+使用该 [link](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/e50ab7b423f04a8db301d7678946626e.html) 申请BTP的试用账户或者配置企业账户
 
 #### 工具
    **Java** 
@@ -34,7 +34,7 @@
     
    **IDE**
 
-   我们可以使用 [Eclipse](https://www.eclipse.org/), [Idea](https://www.jetbrains.com/idea/) , [Theia](https://theia-ide.org/) 或者 [VSC](https://code.visualstudio.com/) 作为我们开发工具, 或者其他合适的集成开发环境
+   我们可以使用 [Eclipse](https://www.eclipse.org/), [Idea](https://www.jetbrains.com/idea/) , [Theia](https://theia-ide.org/) 或者 [VSC](https://code.visualstudio.com/) 作为我们的集成开发环境 或者其他合适的集成开发环境
 
    * **Eclipse** 
    
@@ -124,7 +124,7 @@
    **EndpointURL** 你可以在子账户中看到对应的API endpint :
    ![APIEndPoint](/btp_javademo/img/APIEndPoint.png)
 
-2. 使用升级的BTP账户登录对应的BTP CF环境
+2. 使用你的BTP账户登录对应的BTP CF环境
    
    命令行 :
 
@@ -181,7 +181,7 @@
    
  ![space_application](/btp_javademo/img/space_application.png)
 
-3.  产看 applicaiton URL
+3.  查看 applicaiton URL
    
  ![applicationOverview](/btp_javademo/img/applicaiton_overview.png)
 
