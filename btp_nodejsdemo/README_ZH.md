@@ -1,1 +1,1 @@
-[English](/README.md) | [中文](/README_ZH.md)
+[English](/btp_nodejsdemo/README.md) | [中文](/btp_nodejsdemo/README.md)
