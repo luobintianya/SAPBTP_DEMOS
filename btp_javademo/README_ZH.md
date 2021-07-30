@@ -52,11 +52,11 @@
 
       Eclisp旗下用于作为Visual Studio Code 的替代开发集成环境， 配置与VSC相似，还处于Beta开发中， 喜欢尝试的朋友可以试一下，做first bird
 
-   * **CF命令行**
+  **CF命令行**
      
-     下载并配置: [Download and Install the Cloud Foundry Command Line Interface](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/4ef907afb1254e8286882a2bdef0edf4.html)
+   下载并配置: [Download and Install the Cloud Foundry Command Line Interface](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/4ef907afb1254e8286882a2bdef0edf4.html)
    
-     直接下载链接: [https://github.com/cloudfoundry/cli#downloads](https://github.com/cloudfoundry/cli#downloads)
+   直接下载链接: [https://github.com/cloudfoundry/cli#downloads](https://github.com/cloudfoundry/cli#downloads)
 
 
 

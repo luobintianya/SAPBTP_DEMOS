@@ -38,8 +38,16 @@ Use this [link](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Clo
     - [Hbuilder](https://www.dcloud.io/hbuilderx.html/)
     - ...
 
- * **VSC**
-     Install the [vetrur extension](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+   * **VSC**
+       Install the [vetrur extension](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+
+  **CF Command line**
+    
+   Dowanload and Configration : [Download and Install the Cloud Foundry Command Line Interface](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/4ef907afb1254e8286882a2bdef0edf4.html)
+
+   Direct Download link: [https://github.com/cloudfoundry/cli#downloads](https://github.com/cloudfoundry/cli#downloads)
+
+     
 
 ### Development
 Steps:

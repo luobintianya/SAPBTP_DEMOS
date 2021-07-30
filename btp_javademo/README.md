@@ -52,11 +52,11 @@ Use this [link](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Clo
   
       As alternative IDF fo VSC under Eclpse orgnization,  and it is still in Beta development , if you want to be the first bird , we can try it.
 
-   * **CF Command line**
+  **CF Command line**
     
-     Dowanload and Configration : [Download and Install the Cloud Foundry Command Line Interface](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/4ef907afb1254e8286882a2bdef0edf4.html)
+   Dowanload and Configration : [Download and Install the Cloud Foundry Command Line Interface](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/4ef907afb1254e8286882a2bdef0edf4.html)
 
-     Direct Download link: [https://github.com/cloudfoundry/cli#downloads](https://github.com/cloudfoundry/cli#downloads)
+   Direct Download link: [https://github.com/cloudfoundry/cli#downloads](https://github.com/cloudfoundry/cli#downloads)
 
 ### Development
 
