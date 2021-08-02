@@ -27,17 +27,6 @@
     
   使用 [VSC](https://code.visualstudio.com/) 作为开发集成环境, 或者其他个人合适的集成开发环境 
    
-  以下是一些知名的集成开发环境可以用来作为NodeJs开发.
-    - [Cloud9](https://aws.amazon.com/cn/cloud9/)
-    - [idea](https://www.jetbrains.com/idea/)
-    - [VSC](https://code.visualstudio.com)
-    - [webstrom](https://www.jetbrains.com/webstorm/)
-    - [komodo](https://www.activestate.com/products/komodo-ide/)
-    - [koding](https://www.koding.com/)
-    - [sublimetext](http://www.sublimetext.com/)
-    - [Hbuilder](https://www.dcloud.io/hbuilderx.html/)
-    - ...
-
    * **VSC**
         安装 [vetrur extension](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 

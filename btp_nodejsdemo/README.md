@@ -27,16 +27,6 @@ Use this [link](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Clo
     
   we can use the [VSC](https://code.visualstudio.com/) as you favourite development IDE, or other IDE you like. 
    
-  here are well-known IDE lists for NodeJs development.
-    - [Cloud9](https://aws.amazon.com/cn/cloud9/)
-    - [idea](https://www.jetbrains.com/idea/)
-    - [VSC](https://code.visualstudio.com)
-    - [webstrom](https://www.jetbrains.com/webstorm/)
-    - [komodo](https://www.activestate.com/products/komodo-ide/)
-    - [koding](https://www.koding.com/)
-    - [sublimetext](http://www.sublimetext.com/)
-    - [Hbuilder](https://www.dcloud.io/hbuilderx.html/)
-    - ...
 
    * **VSC**
        Install the [vetrur extension](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
