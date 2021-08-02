@@ -124,7 +124,7 @@
    
     1.  在我们配置 python buildpack之前 , 我们仍然需要添加 3个(runtime.text, requirement.txt procfile )文件来保证 python buildpack运作正常
 
-        runtimetime.text:  定义python运行版本
+        runtimetime.text:  定义python运行版本, 我们可以通过[pythonBuildPackage Relaese](https://github.com/cloudfoundry/python-buildpack/releases)查阅对应的可运行python运行版本
 
         example code :
 
@@ -148,34 +148,34 @@
         ``` 
     2. 配置路由
    
-        推荐使用以下方式形成对应的route :
+       推荐使用以下方式形成对应的route :
 
         ```
         {subdomain}-{appname}.{cfappdoman}
         ```
         
-        **subdomain:** 
+       **subdomain:** 
 
-        ![subdomain](/btp_pythondemo/img/subdomain.png)
+       ![subdomain](/btp_pythondemo/img/subdomain.png)
 
-        **appname**: 由业务定义
+       **appname**: 由业务定义
 
-        **cfappsdomain:**：  可使用命令行 ```cf domains ``` 获取对应的domains
+       **cfappsdomain:**：  可使用命令行 ```cf domains ``` 获取对应的domains
 
-        ![cfappdomain](/btp_pythondemo/img/cfappdoman.png)
+       ![cfappdomain](/btp_pythondemo/img/cfappdoman.png)
 
-        Example:
+       Example:
 
-            ```
-            ---
-            applications:
-            - name: pyApp
-            memory: 128MB
-            buildpacks: 
-                - python_buildpack
-            routes: 
-                - route: 91ccc175trial-pythonapp.cfapps.ap21.hana.ondemand.com 
-            ```
+         ```
+         ---
+         applications:
+         - name: pyApp
+         memory: 128MB
+         buildpacks: 
+            - python_buildpack
+         routes: 
+            - route: 91ccc175trial-pythonapp.cfapps.ap21.hana.ondemand.com 
+         ```
    
 5. 部署 pytho 工程到TP环境中
    
