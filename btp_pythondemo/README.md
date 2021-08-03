@@ -1,5 +1,3 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/seyaFly/SAPBTP_DEMOS)](https://api.reuse.software/info/github.com/seyaFly/SAPBTP_DEMOS)
-
 [English](/btp_pythondemo/README.md) | [中文](/btp_pythondemo/README_ZH.md)
 
 ## Table Of Content
