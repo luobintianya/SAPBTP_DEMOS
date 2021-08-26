@@ -12,7 +12,7 @@ Here is the steps how to setup the Eclipse for ABAP Development
    
    the corresponding plugin site can be find in the previous step.
 
-   ![ABAP_Development_tool](/btp_abapdemo/01_Enviroment_SetUp/img/ABAP+Development+Tool.png)
+   ![ABAP_Development_tool](/btp_abapdemo/01_Enviroment_SetUp/img/ABAP_Development_Tool.png)
 
 ### Reference
 SAP Development Tools: [https://tools.hana.ondemand.com/](https://tools.hana.ondemand.com/)
